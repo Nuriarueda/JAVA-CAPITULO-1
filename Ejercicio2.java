@@ -5,7 +5,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         System.out.println("Nuria Rueda Reina");
         System.out.println("Calle Limonero 23");
-        System.out.println("682343980");
+        System.out.println("682343980 ");
 
     }
 }
