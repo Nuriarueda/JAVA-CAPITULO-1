@@ -10,7 +10,7 @@ public class Ejercicio9 {
         System.out.println("  CON EJERCICIOS             ██");
         System.out.println("                               ██");
         System.out.println();
-        System.out.println(" Nuria Rueda Reina      ███████████████████");
+        System.out.println(" Nuria Rueda Reina     ███████████████████");
         System.out.println("                       ██████████████   ██");
         System.out.println("                       ███████████████████");
         System.out.println("                       ██████████████");
