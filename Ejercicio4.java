@@ -19,5 +19,6 @@ public class Ejercicio4 {
         System.out.println("├───────┼───────┼────────┼───────────┼────────┼─────────┤");
         System.out.println("│ 13:45 │       │        │   BBDD    │        │         │");
         System.out.println("└───────┴───────┴────────┴───────────┴────────┴─────────┘");
+        
     }
 }
