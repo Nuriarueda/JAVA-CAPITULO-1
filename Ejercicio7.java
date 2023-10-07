@@ -8,5 +8,6 @@ public class Ejercicio7 {
         System.out.println("  *   *");
         System.out.println(" *     *");
         System.out.println("*********");
+        
     }
 }
