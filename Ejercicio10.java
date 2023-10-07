@@ -15,6 +15,5 @@ public class Ejercicio10 {
         System.out.println("                       \033[94m██████████████\033[37m");
         System.out.println("                       \033[94m██████████████\033[37m");
 
-
     }
 }
